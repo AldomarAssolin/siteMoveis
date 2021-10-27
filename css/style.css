@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,700;1,300;1,700&family=Oswald:wght@300;600&family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Fonts*/
+.lato{
+    font-family: 'Lato', sans-serif;
+}
+.oswald{
+    font-family: 'Oswald', sans-serif;
+}
+.pt-sans{
+    font-family: 'PT Sans', sans-serif;
+}
+
+/*Colors*/
+.color  {color: #fff;}
+.color0 {color: #000;}
+.color1 {color: #12213b;}
+.color2 {color: #123956;}
+.color3 {color: #125a77;}
+.color4 {color: #158297;}
+.color5 {color: #1ab6af;}
+
+/*background-colors*/
+.bg-color  {background: #fff;}
+.bg-color0 {background: #000;}
+.bg-color1 {background: #12213b;}
+.bg-color2 {background: #123956;}
+.bg-color3 {background: #125a77;}
+.bg-color4 {background: #158297;}
+.bg-color5 {background: #1ab6af;}
+
+.bg-grad-dark{
+    background: #141E30;
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);
+    background: linear-gradient(to right, #243B55, #141E30);
+}
+
+main{
+    min-height: 68.5vh;
+}
+

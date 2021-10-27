@@ -1,0 +1,13 @@
+
+.border-car{
+    border: 8px solid;
+    border-image: linear-gradient(227.91deg, #102d58 0%, #066875 100%) 1;
+    border-radius: 30px;
+}
+
+.bg-grad-light{
+    background: linear-gradient(to bottom, #243B55, #fff) ;
+}
+.card-image{
+    height: 300px;
+}
